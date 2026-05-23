@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rishiveid</h1>
 <h3 align="center">B.Tech CSE Student | Backend Developer | FastAPI Enthusiast</h3>
 
-<p align="center">
-  <a href="https://github.com/rishinarsingoju-lgtm">
-    <img src="https://komarev.com/ghpvc/?username=rishinarsingoju-lgtm&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-  </a>
-</p>
-
 ---
 
 ## 🚀 About Me
@@ -58,22 +52,24 @@
 </a>
 
 </p>
+
 ---
+
 ## 🛠️ Tech Stack
 
 ### Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,c,javascript,sqlite" />
+  <img src="https://skillicons.dev/icons?i=python,java,c,sqlite" />
 </p>
 
 ### Web Development
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,flask,fastapi" />
+  <img src="https://skillicons.dev/icons?i=html,css,fastapi,postgresql" />
 </p>
 
 ### Tools & Platforms
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker,vercel" />
 </p>
 
 ---
