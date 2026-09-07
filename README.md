@@ -3,17 +3,17 @@
 
 ---
 
-## 🚀 About Me
+##  About Me
 
-- 🎓 B.Tech Computer Science Engineering student at **CVR College of Engineering**
-- 💻 Interested in **Backend Development**, **FastAPI**
-- 🌱 Currently learning **Advanced Backend Engineering** and **System Design**
-- 🧠 Strong foundation in **DSA**, **OOPs**, **DBMS**, and **Web Technologies**
-- ⚡ Love building practical real-world projects
+-  B.Tech Computer Science Engineering student at **CVR College of Engineering**
+-  Interested in **Backend Development**, **FastAPI**
+-  Currently learning **Advanced Backend Engineering** and **System Design**
+-  Strong foundation in **DSA**, **OOPs**, **DBMS**, and **Web Technologies**
+-  Love building practical real-world projects
 
 ---
 
-## 📫 Connect With Me
+##  Connect With Me
 
 <p align="left">
   <a href="https://linkedin.com/in/rishi-narsingoju-144106314" target="blank">
@@ -27,7 +27,7 @@
 
 ---
 
-## 💻 Coding Profiles
+##  Coding Profiles
 
 <p align="left">
 
@@ -55,7 +55,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Languages
 <p>
@@ -74,7 +74,7 @@
 
 ---
 
-## 📌 Featured Projects
+##  Featured Projects
 
 ### 🔹 Customer Churn Dashboard
 **Tech Stack:** Python, FastAPI, SQLite, JavaScript
@@ -105,7 +105,7 @@
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rishinarsingoju-lgtm&theme=github"/>
@@ -116,11 +116,11 @@
 
 ---
 
-## 🏆 Achievements
+##  Achievements
 
-- 🚀 Participated in college-level hackathons
-- 📚 Continuously improving Full-Stack and Backend Development skills
-- 💡 Building practical engineering projects
+-  Participated in college-level hackathons
+-  Continuously improving Full-Stack and Backend Development skills
+-  Building practical engineering projects
 
 ---
 
